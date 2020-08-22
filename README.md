@@ -34,4 +34,4 @@ python mywiki.py code
 
 will create wordcloud for the topic 'code' which looks like this:
 
-![](https://raw.githubusercontent.com/ishani-chakraborty/wikipedia-data-visualization/master/result.png)
+![](https://raw.githubusercontent.com/ishani-chakraborty/wikipedia-search-visualization/master/result.png)
