@@ -30,8 +30,12 @@ For example:
 
 ```
 python mywiki.py code
-```
-
+``` 
 will create wordcloud for the topic 'code' which looks like this:
 
+However
+```
+mywiki.py
+```
+randomizes the number of words and images generated everytime the script is run! Have fun adding your own images and playing around with the script!
 ![](https://raw.githubusercontent.com/ishani-chakraborty/wikipedia-search-visualization/master/result.png)
